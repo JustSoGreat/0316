@@ -1,0 +1,7 @@
+D:\work\homework1\xmlRead\xmlRead\bin\Debug\xmlRead.exe.config
+D:\work\homework1\xmlRead\xmlRead\bin\Debug\xmlRead.exe
+D:\work\homework1\xmlRead\xmlRead\bin\Debug\xmlRead.pdb
+D:\work\homework1\xmlRead\xmlRead\obj\Debug\xmlRead.csprojResolveAssemblyReference.cache
+D:\work\homework1\xmlRead\xmlRead\obj\Debug\xmlRead.csproj.CoreCompileInputs.cache
+D:\work\homework1\xmlRead\xmlRead\obj\Debug\xmlRead.exe
+D:\work\homework1\xmlRead\xmlRead\obj\Debug\xmlRead.pdb
